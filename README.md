@@ -1,9 +1,9 @@
-<image src='https://tanishqparmar.site/static/img/hisabkitab.jpg' width='400'>
+<img src='https://tanishqparmar.site/static/img/hisabkitab.jpg' width='400'>
 
-##📱 HisabKitab – Smart Money Tracker for Everyone
+## 📱HisabKitab – Smart Money Tracker for Everyone
 Description:
 
-HisabKitab is a sleek and user-friendly Flutter app designed to help individuals, shopkeepers, and small businesses easily manage personal and customer-based credit/debit transactions. With real-time insights, elegant charts, multi-language support, and features like WhatsApp reminders and PDF exports, it brings simplicity and clarity to your financial life — no Excel, no confusion, just pure digital hisaab-kitaab! 💼📊📲
+## HisabKitab is a sleek and user-friendly Flutter app designed to help individuals, shopkeepers, and small businesses easily manage personal and customer-based credit/debit transactions. With real-time insights, elegant charts, multi-language support, and features like WhatsApp reminders and PDF exports, it brings simplicity and clarity to your financial life — no Excel, no confusion, just pure digital hisaab-kitaab! 💼📊📲
 
 ✨ Key Features
 🧑‍🤝‍🧑 Add and manage multiple customers
@@ -28,3 +28,4 @@ HisabKitab is a sleek and user-friendly Flutter app designed to help individuals
 
 ### 🔗 Portfolio - https://tanishqparmar.site/
 ### 🔗 APK link - https://tanishqparmar.site/hisabkitab
+
