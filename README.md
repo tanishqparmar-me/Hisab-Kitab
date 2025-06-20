@@ -18,8 +18,6 @@ Description:
 
 🌐 Supports multiple Indian languages
 
-🔔 Get local notifications for due payments
-
 🎨 Beautiful, modern, and intuitive UI
 
 🗃️ Secure local storage using Hive DB
