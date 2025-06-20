@@ -1,0 +1,41 @@
+                           ┌────────────────────────────┐
+                           │       Splash Screen        │
+                           └────────────┬───────────────┘
+                                        │
+                           ┌────────────▼───────────────┐
+                           │      Home Dashboard        │
+                           │  - Total Balance Summary   │
+                           │  - # Customers              │
+                           │  - Add Customer (+ Button)  │
+                           └────┬──────────┬────────────┘
+                                │          │
+                ┌──────────────▼──┐     ┌──▼────────────────────┐
+                │   Customer List │     │    Menu / Drawer       │
+                └─────┬───────────┘     │  - Export Backup       │
+                      │                 │  - Language            │
+                      ▼                 │  - Dark Mode           │
+         ┌─────────────────────┐        │  - Settings            │
+         │   Customer Profile  │        │  - Rate Us             │
+         │ Name, Phone, Balance│        └────────────────────────┘
+         │ [Record Entry]      │
+         └──────┬───────┬──────┘
+                │       │
+       ┌────────▼┐   ┌──▼────────────┐
+       │ Add Udhaar│ │  View History │
+       │ (+Amount) │ │  - Filter     │
+       │           │ │  - Delete/Edit│
+       └────┬──────┘ └──────┬────────┘
+            │               │
+     ┌──────▼─────┐    ┌────▼────────────────┐
+     │ Send Reminder│  │ Generate PDF Export │
+     │ (SMS/WhatsApp)│ │  - Save or Share     │
+     └──────────────┘  └─────────────────────┘
+
+            ⬇
+     ┌─────────────┐
+     │ Settings    │
+     │ - Change PIN│
+     │ - Biometric │
+     │ - Export    │
+     └─────────────┘
+

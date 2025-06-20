@@ -1,0 +1,47 @@
+lib/
+│
+├── main.dart
+├── app.dart                # App widget + routing
+├── constants/              # Colors, text styles, assets
+│   ├── app_colors.dart
+│   ├── app_text_styles.dart
+│   └── app_assets.dart
+│
+├── data/                   # Local data storage layer
+│   ├── models/
+│   │   ├── customer_model.dart
+│   │   └── transaction_model.dart
+│   ├── db/
+│   │   ├── hive_boxes.dart
+│   │   └── db_helper.dart
+│   └── services/
+│       ├── pdf_service.dart
+│       ├── backup_service.dart
+│       └── notification_service.dart
+│
+├── screens/                # Screens / pages
+│   ├── splash/
+│   │   └── splash_screen.dart
+│   ├── home/
+│   │   └── home_screen.dart
+│   ├── customer/
+│   │   ├── customer_profile_screen.dart
+│   │   ├── add_customer_screen.dart
+│   │   └── transaction_history_screen.dart
+│   ├── transaction/
+│   │   └── add_transaction_screen.dart
+│   └── settings/
+│       └── settings_screen.dart
+│
+├── widgets/                # Reusable widgets
+│   ├── customer_tile.dart	
+│   ├── transaction_tile.dart
+│   └── custom_button.dart
+│
+├── l10n/                   # For localization (optional)
+│   └── ... (generated)
+│
+└── utils/                  # Utility functions
+    ├── helpers.dart
+    └── validators.dart
+
